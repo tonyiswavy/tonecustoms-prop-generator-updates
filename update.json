@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.2/ToneCustomsPropGenerator.exe",
-  "sha256": "20daefb87283888866bf7ce931ab42318e7f9c6eedef7ec7a682c008e41a1f18",
-  "notes": "Updater cache bypass plus Git-free local 3D setup."
+  "version": "0.3.3",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.3/ToneCustomsPropGenerator.exe",
+  "sha256": "c9f294e284ae2177b031e4bb302bafc0a20dfdc42aff6cfb5c5a2c56a6fca316",
+  "notes": "Repairs incomplete local 3D installs and fixes updater restart handling."
 }
