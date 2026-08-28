@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.7/ToneCustomsPropGenerator.exe",
-  "sha256": "aeefdc3d2847098a1860b56c36a4f6350a2f933d5ff1b7044ca915d6c5bdcb96",
-  "notes": "Fixes Windows SF3D native package compilation with explicit C++17 flags."
+  "version": "0.3.8",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.8/ToneCustomsPropGenerator.exe",
+  "sha256": "ea97a37715dbd9a7a987d105d9995e14acdd2a44147b91156067587dc89a1278",
+  "notes": "Fix uv_unwrapper Windows native module installation."
 }
