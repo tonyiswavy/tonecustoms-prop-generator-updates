@@ -1,6 +1,6 @@
 {
   "version": "0.4.4",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.4/ToneCustomsPropGenerator.exe",
-  "sha256": "c7d1f9dcb8ffe725188fec1d6f17dc8327440f14e158bd52bbd632ca01a90459",
+  "sha256": "db1e6d7b829918c18ecef24cea283c8a67f802fd188d4afa51de93687bfe4f2b",
   "notes": "Add direct MSVC and Windows SDK fallback when vcvars64 fails."
 }
