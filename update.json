@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.1/ToneCustomsPropGenerator.exe",
-  "sha256": "2e1afcd91e8c1e10dc7b9fc406f18f239384aee998fb3c94872879323497c156",
+  "sha256": "fead4051ad507bde3b22fc14cd37057396026d0225fdc046f1427f45984a207b",
   "notes": "Fix Microsoft C++ compiler discovery for SF3D native modules."
 }
