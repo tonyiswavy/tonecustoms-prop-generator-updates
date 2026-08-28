@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.3/ToneCustomsPropGenerator.exe",
-  "sha256": "bb87f510dbdf1481ed380e6ee3dcfc9a456cd6d411eb914d4d936ad6ada8cc90",
-  "notes": "Fix cl.exe environment handoff for SF3D native builds."
+  "version": "0.4.4",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.4/ToneCustomsPropGenerator.exe",
+  "sha256": "c7d1f9dcb8ffe725188fec1d6f17dc8327440f14e158bd52bbd632ca01a90459",
+  "notes": "Add direct MSVC and Windows SDK fallback when vcvars64 fails."
 }
