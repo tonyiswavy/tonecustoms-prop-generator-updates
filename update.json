@@ -1,6 +1,6 @@
 {
   "version": "0.4.2",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.2/ToneCustomsPropGenerator.exe",
-  "sha256": "bf4955179b0c7be65bf0a70ffff5ae25c232a6cb59e6e53071eb3749da9288d1",
+  "sha256": "23106ca57f129ce81cf3370d549268a87585c564370eb74a2151a68540abca7e",
   "notes": "Fix Visual Studio vcvars initialization for the local 3D compiler."
 }
