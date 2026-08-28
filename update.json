@@ -1,6 +1,6 @@
 {
   "version": "0.3.5",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.5/ToneCustomsPropGenerator.exe",
-  "sha256": "e68053ecb7927c122beddb9a9d3a69580aff39e3bbff3e7c6d85fe88f04383f0",
+  "sha256": "aac1d040d65860e76a71e87252d12cfc1b32eb1c40f3dd882b131c9f9585b20d",
   "notes": "Uses a dedicated Python 3.11 environment for SF3D compatibility."
 }
