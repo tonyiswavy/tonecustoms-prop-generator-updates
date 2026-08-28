@@ -1,6 +1,6 @@
 {
   "version": "0.5.0",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.5.0/ToneCustomsPropGenerator.exe",
-  "sha256": "5ed08bcc3425006180b931f4e9b0f5cfb55d8cf5c16b3de2d0c327966b47bcfb",
+  "sha256": "62ff89d8e52711dcf92c39daf0632f6b98e482d3afaa54d68e904179b3015340",
   "notes": "Storage architecture update: configurable 3D engine location, disk-space checks, no-cache installs, engine storage status, and safer local runtime setup."
 }
