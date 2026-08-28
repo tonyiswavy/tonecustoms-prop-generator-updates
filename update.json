@@ -1,6 +1,6 @@
 {
   "version": "0.4.7",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.7/ToneCustomsPropGenerator.exe",
-  "sha256": "0722598593133858009e1fe92bac8319e0c885825dcf6301bd73ce37a0fbe5d0",
+  "sha256": "f22c288e217e79f1d640ecd5d99ee536dc297a37fa0f81174d327ac6944bc645",
   "notes": "Remove broken CL environment options and keep C++20 flags in native extension setup only."
 }
