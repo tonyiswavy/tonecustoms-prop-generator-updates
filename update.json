@@ -1,6 +1,6 @@
 {
   "version": "0.4.3",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.3/ToneCustomsPropGenerator.exe",
-  "sha256": "43ddb5b8bf1c6fa030775265a8210305a668de334ef16c19790cd91aeb1b524c",
+  "sha256": "bb87f510dbdf1481ed380e6ee3dcfc9a456cd6d411eb914d4d936ad6ada8cc90",
   "notes": "Fix cl.exe environment handoff for SF3D native builds."
 }
