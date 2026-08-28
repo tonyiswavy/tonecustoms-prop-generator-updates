@@ -1,6 +1,6 @@
 {
   "version": "0.4.9",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.9/ToneCustomsPropGenerator.exe",
-  "sha256": "53cb08c80e90f7ebce833aa204d5566793ac16cb1accff1c7f439709a77c2c39",
+  "sha256": "60485745d3a37597d4ae6b29e86b6a2390d61979d159c19f73243952123bbf93",
   "notes": "Replace gated Stable Fast 3D backend with local TripoSR image-to-3D pipeline."
 }
