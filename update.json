@@ -1,6 +1,6 @@
 {
   "version": "0.3.0",
-  "download_url": "",
-  "sha256": "",
-  "notes": "ToneCustoms Prop Generator public update channel initialized. Automatic update downloads will activate after the 0.3.0 bootstrap build is published."
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.0/ToneCustomsPropGenerator.exe",
+  "sha256": "d8b9aacb508917dee497d34dee2f74d8c5ca426d5f1eec84f9d17548ae8d86f7",
+  "notes": "ToneCustoms Prop Generator automatic update build."
 }
