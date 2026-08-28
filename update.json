@@ -1,6 +1,6 @@
 {
-  "version": "0.4.10",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.10/ToneCustomsPropGenerator.exe",
-  "sha256": "85ee21b6a079c3c2b451bd8b8e919cdc627167a06d563f92e9a3ec8fd0c33215",
-  "notes": "Remove TripoSR Git executable dependency and install the local runtime without requiring Git on the user PC."
+  "version": "0.5.0",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.5.0/ToneCustomsPropGenerator.exe",
+  "sha256": "5ed08bcc3425006180b931f4e9b0f5cfb55d8cf5c16b3de2d0c327966b47bcfb",
+  "notes": "Storage architecture update: configurable 3D engine location, disk-space checks, no-cache installs, engine storage status, and safer local runtime setup."
 }
