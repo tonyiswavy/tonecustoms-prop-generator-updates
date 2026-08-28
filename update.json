@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.6/ToneCustomsPropGenerator.exe",
-  "sha256": "16918d41b24a7275c428201dbd7822d53f3f1469fbe211dd63202e4c1409e236",
-  "notes": "Fix native setup template LIBRARY error and compiler executable resolution."
+  "version": "0.4.7",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.7/ToneCustomsPropGenerator.exe",
+  "sha256": "0722598593133858009e1fe92bac8319e0c885825dcf6301bd73ce37a0fbe5d0",
+  "notes": "Remove broken CL environment options and keep C++20 flags in native extension setup only."
 }
