@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.8/ToneCustomsPropGenerator.exe",
-  "sha256": "384c6479408d610082d3519d4ddf1db2c835c41a6443f41effbe788ca19cbee3",
-  "notes": "Remove invalid standalone MSVC compiler probe and continue directly to SF3D native extension builds."
+  "version": "0.4.9",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.9/ToneCustomsPropGenerator.exe",
+  "sha256": "53cb08c80e90f7ebce833aa204d5566793ac16cb1accff1c7f439709a77c2c39",
+  "notes": "Replace gated Stable Fast 3D backend with local TripoSR image-to-3D pipeline."
 }
