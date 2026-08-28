@@ -1,6 +1,6 @@
 {
   "version": "0.4.6",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.6/ToneCustomsPropGenerator.exe",
-  "sha256": "30cd35864e22e25f6655345a9d5353596da652926374f7261ea1b7300dbb4538",
+  "sha256": "16918d41b24a7275c428201dbd7822d53f3f1469fbe211dd63202e4c1409e236",
   "notes": "Fix native setup template LIBRARY error and compiler executable resolution."
 }
