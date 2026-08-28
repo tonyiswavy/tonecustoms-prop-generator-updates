@@ -1,6 +1,6 @@
 {
   "version": "0.4.8",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.8/ToneCustomsPropGenerator.exe",
-  "sha256": "d7db34eb8dd6f890dc79ddf50242aee0571d1583ad962faffe2cfee053dcf45c",
+  "sha256": "384c6479408d610082d3519d4ddf1db2c835c41a6443f41effbe788ca19cbee3",
   "notes": "Remove invalid standalone MSVC compiler probe and continue directly to SF3D native extension builds."
 }
