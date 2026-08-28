@@ -1,6 +1,6 @@
 {
   "version": "0.4.5",
   "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.5/ToneCustomsPropGenerator.exe",
-  "sha256": "9c43c45227ab75802f4a8beae5d2a6041e9d829a96722f59cc2f31da1373cb7e",
+  "sha256": "ef6694dd4411125cd92b2f10c14f56f8147f6154673d8709bbaa2a3dd853356e",
   "notes": "Fix SF3D texture_baker and uv_unwrapper native builds for Visual Studio 2026 with C++20."
 }
