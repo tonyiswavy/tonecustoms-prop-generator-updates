@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.0/ToneCustomsPropGenerator.exe",
-  "sha256": "7a87d6da6d73ad384b5e6e51e983a29036bdc01dfab525b5cc43cc176cf3cf8d",
-  "notes": "ToneCustoms Prop Generator automatic update build."
+  "version": "0.3.1",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.1/ToneCustomsPropGenerator.exe",
+  "sha256": "5b526061b4ba02ba81f958c9e910aced2e0a74a2a2f305ebee952d1e1950bfd2",
+  "notes": "First-time local 3D setup no longer requires Git."
 }
