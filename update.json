@@ -1,6 +1,6 @@
 {
-  "version": "0.3.6",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.6/ToneCustomsPropGenerator.exe",
-  "sha256": "c39b9a71668f0bcd23105209324b1d669f5b82464236bc59e87a890f1169f0c7",
-  "notes": "Automatically installs a private Python 3.11 runtime for the local SF3D engine."
+  "version": "0.3.7",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.7/ToneCustomsPropGenerator.exe",
+  "sha256": "fad47c242676b8022a27c80edd89ee5ef88ecdfb62deaba1dca72b8222d68963",
+  "notes": "Fixes Windows SF3D native package compilation with explicit C++17 flags."
 }
