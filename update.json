@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.4/ToneCustomsPropGenerator.exe",
-  "sha256": "59dc9fdeb0d08f1af9d0c94a9398f10f8520efe27bd8942eec871a5e0250fd7c",
-  "notes": "Add direct MSVC and Windows SDK fallback when vcvars64 fails."
+  "version": "0.4.5",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.4.5/ToneCustomsPropGenerator.exe",
+  "sha256": "9c43c45227ab75802f4a8beae5d2a6041e9d829a96722f59cc2f31da1373cb7e",
+  "notes": "Fix SF3D texture_baker and uv_unwrapper native builds for Visual Studio 2026 with C++20."
 }
