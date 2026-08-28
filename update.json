@@ -1,6 +1,6 @@
 {
-  "version": "0.3.8",
-  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.8/ToneCustomsPropGenerator.exe",
-  "sha256": "7c485819a0c8e2f36f520b9f0700dbefa569701af3314b199d5238670539217e",
-  "notes": "Fix uv_unwrapper Windows native module installation."
+  "version": "0.3.9",
+  "download_url": "https://github.com/tonyiswavy/tonecustoms-prop-generator-updates/releases/download/v0.3.9/ToneCustomsPropGenerator.exe",
+  "sha256": "cbcfb65cdf2777bebda1ed5f76eb6d9e7b961722591d730babd62a3fc40bb2e7",
+  "notes": "Reliable update checks plus the uv_unwrapper Windows fix."
 }
