@@ -24,7 +24,9 @@ The manifest may contain `version`, `download_url`, `sha256` and `notes` fields.
 
 - [ToneCustoms documentation](https://github.com/tonyiswavy/tonecustoms-docs)
 - [Customer information](https://github.com/tonyiswavy/tonecustoms-docs/tree/main/policies)
-- [Discord](https://discord.gg/JdZ7NTG5KF)
-- [Tebex](https://tonecustoms.tebex.store/)
+- [Join Discord](https://discord.gg/JdZ7NTG5KF)
+- [Subscribe on YouTube](https://www.youtube.com/@tonyiswavy12)
+- [Follow on GitHub](https://github.com/tonyiswavy)
+- [Browse the Tebex Store](https://tonecustoms.tebex.store/)
 
 *ToneCustoms — Built for roleplay. Made with purpose.*
